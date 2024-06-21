@@ -12,6 +12,6 @@ Proyectos desarrollados en el modulo de SwiftUI and Declarative Programming - An
     - [Preview App](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/assets/173420020/ed389836-ffed-4076-b6b3-ef39caed9716)    
 
 - [H4X0R News](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/tree/main/H4X0R%20News)
-    - Creación Aplicación de Hacker News, muestra un listado de publicaciónes.
+    - Creación Aplicación de Hacker News, muestra un listado de publicaciónes a través de [HN Search API](https://hn.algolia.com/api).
     - Conceptos: **WebKit**, Consumo de APi, List, **Observer Design Pattern**.
-    - [Preview App]()
+    - [Preview App](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/assets/173420020/391adab8-9ff8-42f2-a1e0-eb3e76e32771)
