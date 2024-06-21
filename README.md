@@ -1,10 +1,10 @@
 # SwiftUI-Udemy-Angela
 Proyectos desarrollados en el modulo de SwiftUI and Declarative Programming - Angela Yu
 
-- [Dicee-SwiftUI](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/blob/main/Dicee-SwiftUI/README.md)
+- [Dicee-SwiftUI](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/blob/main/Dicee-SwiftUI)
     - Breve funcionalidad para generar dados aleatorios.
     - Conceptos: ZStack, HStack, VStack, Image, Text y Button.
-    - [Preview App]()
+    - [Preview App](https://github.com/dbatistaInter/SwiftUI-Udemy-Angela/assets/173420020/07c73466-2cf5-4339-965d-37de7aebb3c1)
 
 - [EduardoCard](https://www.google.com.mx)
     - Diseños personalizados de una vista de presentación
