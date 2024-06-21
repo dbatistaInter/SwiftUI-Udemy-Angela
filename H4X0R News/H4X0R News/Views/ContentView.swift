@@ -13,10 +13,7 @@ struct ContentView: View {
         NavigationView {
             List(networkManager.post){ post in
                 NavigationLink(destination: DetailView(url: post.url)) {
-                    HStack {
-                        Text("\(post.points)")
-                        Text(post.title)
-                    }
+                    CellList(title: post.title, points: String(post.points))
                 }
                 
             }
@@ -32,3 +29,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+
